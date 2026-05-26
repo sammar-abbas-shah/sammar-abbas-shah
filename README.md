@@ -26,15 +26,25 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sammar-abbas-shah&show_icons=true&hide_border=true&bg_color=0D0D1A&title_color=C792EA&text_color=FFFFFF&icon_color=C792EA&count_private=true" alt="Sammar's GitHub Stats" />
+<!-- Streak — demolab is always reliable -->
+<img src="https://streak-stats.demolab.com?user=sammar-abbas-shah&hide_border=true&background=0D0D1A&ring=6C63FF&fire=C792EA&currStreakLabel=C792EA&sideLabels=C792EA&dates=FFFFFF&stroke=6C63FF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- Stats card via github-profile-summary-cards — different server, more reliable -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sammar-abbas-shah&theme=midnight_purple" alt="Profile Summary" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammar-abbas-shah&layout=compact&hide_border=true&bg_color=0D0D1A&title_color=C792EA&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sammar-abbas-shah&theme=midnight_purple" alt="Repos Per Language" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sammar-abbas-shah&theme=midnight_purple" alt="Most Commit Language" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=sammar-abbas-shah&hide_border=true&background=0D0D1A&ring=6C63FF&fire=C792EA&currStreakLabel=C792EA&sideLabels=C792EA&dates=FFFFFF&stroke=6C63FF" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sammar-abbas-shah&theme=midnight_purple" alt="Stats" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sammar-abbas-shah&theme=midnight_purple&utcOffset=5" alt="Productive Time" />
 
 </div>
 
