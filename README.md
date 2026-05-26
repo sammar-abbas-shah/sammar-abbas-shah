@@ -6,18 +6,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Raleway&size=16&duration=2500&pause=700&color=6C63FF&center=true&vCenter=true&width=550&lines=Building+Emotion+Detectors+%26+Neural+Networks;Python+%7C+Deep+Learning+%7C+Computer+Vision;BIIT+Batch+2023%E2%80%932027)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sammar-abbas-shah&color=6C63FF&style=flat-square&label=PROFILE+VIEWS)](https://komarev.com/ghpvc/?username=sammar-abbas-shah)
-[![Followers](https://img.shields.io/github/followers/sammar-abbas-shah?style=flat-square&color=6C63FF&labelColor=0D0D1A)](https://github.com/sammar-abbas-shah?tab=followers)
-[![Stars](https://img.shields.io/github/stars/sammar-abbas-shah?style=flat-square&color=6C63FF&labelColor=0D0D1A)](https://github.com/sammar-abbas-shah?tab=stars)
-[![Repos](https://img.shields.io/badge/Repos-12-6C63FF?style=flat-square&color=0D0D1A&labelColor=0D0D1A)](https://github.com/sammar-abbas-shah?tab=repositories)
-
 </div>
 
 ---
 
 ## ✨ About Me
 
-> *"Building the future, one neural network at a time."*
+> *"I don't just study AI — I build it, break it, and understand it."*
 
 - 🎓 **BIIT** | Batch 2023–2027 | CGPA: 3.2
 - 🔭 **Currently Learning**: Advanced Deep Learning Architectures
@@ -28,27 +23,15 @@
 
 ## 📊 GitHub Overview
 
-```bash
-╔══════════════════════════════════════════╗
-║   ██████╗ ███████╗██╗   ██╗ ██████╗    ║
-║   ██╔══██╗██╔════╝██║   ██║██╔═══██╗   ║
-║   ██████╔╝█████╗  ██║   ██║██║   ██║   ║
-║   ██╔══██╗██╔══╝  ██║   ██║██║   ██║   ║
-║   ██║  ██║███████╗╚██████╔╝╚██████╔╝   ║
-║   ╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═════╝    ║
-╚══════════════════════════════════════════╝
+<div align="center">
 
-┌────────────────────────────────────────┐
-│  📁 Repositories:     12              │
-│  👥 Followers:         [Your Count]    │
-│  ⭐ Total Stars:       [Your Count]    │
-│  📐 Total Commits:     [Your Count]    │
-└────────────────────────────────────────┘
-```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammar-abbas-shah&theme=midnight-purple&show_icons=true&hide_border=true&bg_color=0D0D1A&title_color=C792EA&text_color=FFFFFF&icon_color=C792EA)
+
+</div>
 
 <div align="center">
 
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sammar-abbas-shah&theme=midnight-purple&title_color=C792EA&text_color=FFFFFF&ring=C792EA)](https://github-profile-summary-cards.vercel.app)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammar-abbas-shah&theme=midnight-purple&layout=compact&hide_border=true&bg_color=0D0D1A&title_color=C792EA&text_color=FFFFFF&langs_count=6)
 
 </div>
 
@@ -171,21 +154,11 @@
 
 ## 📈 Contribution Graph
 
-```bash
-$ git log --oneline --graph --all --decorate
+<div align="center">
 
-*   [Latest] - Natural-language-processing
-|
-*   [Previous] - ANN-and-Deep-Learning
-|
-*   [Previous] - Machine_Learning
-|
-*   [Previous] - toyshare
-|
-*
-```
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sammar-abbas-shah&bg_color=0D0D1A&color=6C63FF&line=6C63FF&point=C792EA&area=true&area_color=6C63FF&hide_border=true)](https://github-readme-activity-graph.vercel.app)
 
-> 📊 Check my full activity on [GitHub Profile](https://github.com/sammar-abbas-shah)
+</div>
 
 ---
 
@@ -205,6 +178,6 @@ $ git log --oneline --graph --all --decorate
 
 **🎓 BIIT | Batch 2023–2027 | CGPA: 3.2 | Open to AI/ML/NLP Internships**
 
-*"From pixels to predictions — that's the journey."* ✨
+*"I don't just study AI — I build it, break it, and understand it."*
 
 </div>
