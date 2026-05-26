@@ -2,9 +2,9 @@
 
 # 𝑺𝒂𝒎𝒎𝒂𝒓 𝑨𝒃𝒃𝒂𝒔 𝑺𝒉𝒂𝒉
 
-### 🤖 AI / ML Developer | 🧠 NLP Specialist | 🌍 Rawalpindi, Pakistan
+### 🤖 AI / ML Developer &nbsp;|&nbsp; 🧠 NLP & Deep Learning &nbsp;|&nbsp; 📱 Flutter Dev &nbsp;|&nbsp; 🌍 Rawalpindi, Pakistan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Raleway&size=16&duration=2500&pause=700&color=6C63FF&center=true&vCenter=true&width=550&lines=Building+Emotion+Detectors+%26+Neural+Networks;Python+%7C+Deep+Learning+%7C+Computer+Vision;BIIT+Batch+2023%E2%80%932027)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2500&pause=700&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+Emotion+Detectors+%26+Neural+Networks+%F0%9F%A7%A0;Python+%7C+Deep+Learning+%7C+Computer+Vision;Flutter+%7C+Firebase+%7C+Full-Stack+Mobile+Apps;BIIT+Batch+2023%E2%80%932027+%7C+CGPA+3.2;Open+to+AI+%2F+ML+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,10 +14,11 @@
 
 > *"I don't just study AI — I build it, break it, and understand it."*
 
-- 🎓 **BIIT** | Batch 2023–2027 | CGPA: 3.2
-- 🔭 **Currently Learning**: Advanced Deep Learning Architectures
-- 🎯 **Looking For**: Internships in AI / ML / NLP
-- 📧 **Contact**: sammarabbas0619@gmail.com
+- 🎓 **Barani Institute of Information Technology** &nbsp;|&nbsp; Batch 2023–2027 &nbsp;|&nbsp; CGPA: **3.2**
+- 🔭 **Currently Exploring**: Advanced Deep Learning Architectures & LLMs
+- 🛠️ **Built**: Emotion Detector · Sentiment Classifier · Community Toy-Sharing App · ML Pipeline
+- 🎯 **Goal**: Internship in AI / ML / NLP
+- 📧 **Contact**: [sammarabbas0619@gmail.com](mailto:sammarabbas0619@gmail.com)
 
 ---
 
@@ -25,13 +26,15 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammar-abbas-shah&theme=midnight-purple&show_icons=true&hide_border=true&bg_color=0D0D1A&title_color=C792EA&text_color=FFFFFF&icon_color=C792EA)
+<img src="https://github-readme-stats.vercel.app/api?username=sammar-abbas-shah&show_icons=true&hide_border=true&bg_color=0D0D1A&title_color=C792EA&text_color=FFFFFF&icon_color=C792EA&count_private=true" alt="Sammar's GitHub Stats" />
 
-</div>
+<br/>
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammar-abbas-shah&layout=compact&hide_border=true&bg_color=0D0D1A&title_color=C792EA&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammar-abbas-shah&theme=midnight-purple&layout=compact&hide_border=true&bg_color=0D0D1A&title_color=C792EA&text_color=FFFFFF&langs_count=6)
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=sammar-abbas-shah&hide_border=true&background=0D0D1A&ring=6C63FF&fire=C792EA&currStreakLabel=C792EA&sideLabels=C792EA&dates=FFFFFF&stroke=6C63FF" alt="GitHub Streak" />
 
 </div>
 
@@ -43,24 +46,37 @@
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### AI / ML
+### AI / ML & Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### NLP & Vision
+### NLP & Computer Vision
 ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Gensim](https://img.shields.io/badge/Gensim-6C63FF?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### Data & Tools
+### Data & Visualization
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-6C63FF?style=for-the-badge&logo=python&logoColor=white)
+
+### Mobile & Backend
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -68,87 +84,79 @@
 
 ## 📁 Featured Projects
 
-### 🎯 Natural-language-processing
-> NLP course work — Emotion detection, sentiment analysis, translation
+### 🎯 [Natural-Language-Processing](https://github.com/sammar-abbas-shah/Natural-language-processing)
+> NLP coursework — from text preprocessing to deep learning language models
 
 | Feature | Technology |
 |---------|------------|
-| Emotion Detector (20 emotions) | LSTM + Word2Vec + Tkinter |
-| Sentiment Classification | LSTM Neural Networks |
-| POS Tagging & Text Processing | NLTK + CountVectorizer |
-| Urdu-to-English Translation | Seq2Seq LSTM |
+| 🧠 Emotion Detector Desktop App (20 emotions) | Rule-based NLP + Tkinter GUI |
+| 💬 Sentiment Classification | LSTM Neural Networks |
+| 🔤 POS Tagging, Stopword Removal, CountVectorizer | NLTK + scikit-learn |
+| 🌐 Urdu-to-English Seq2Seq Translation | LSTM Encoder-Decoder |
+| 📈 Word Prediction | Word2Vec + Gensim |
 
-**Stack**: Python · NLTK · Gensim · TensorFlow · Keras
+**Stack**: `Python` · `NLTK` · `Gensim` · `TensorFlow` · `Keras` · `Tkinter`
 
 ---
 
-### 🧠 ANN-and-Deep-Learning
-> Deep learning implementations — CNNs, GANs, Autoencoders
+### 🧠 [ANN-and-Deep-Learning](https://github.com/sammar-abbas-shah/ANN-and-Deep-Learning)
+> Deep learning architectures from scratch — coursework & projects
 
 | Architecture | Application |
 |-------------|-------------|
-| CNN, LeNet-5, ResNet | Image classification |
-| GANs | Image generation |
-| Autoencoders | Image reconstruction |
-| GNN | Graph neural networks |
-| SOM | Self-organizing maps |
+| CNN, LeNet-5, ResNet | Image Classification |
+| GANs | Synthetic Image Generation |
+| Autoencoders | Image Reconstruction |
+| LSTM / RNN | Sequence Modeling |
+| GNN | Graph Neural Networks |
 
-**Stack**: Python · Keras · TensorFlow · OpenCV
+**Stack**: `Python` · `Keras` · `TensorFlow` · `OpenCV` · `Jupyter`
 
 ---
 
-### 📈 Machine_Learning
-> ML algorithms from scratch — supervised and unsupervised learning
+### 📈 [Machine_Learning](https://github.com/sammar-abbas-shah/Machine_Learning)
+> Core ML algorithms with full implementations, evaluation, and visualization
 
 | Type | Algorithms |
 |------|------------|
-| Supervised | Linear/Logistic Regression, Decision Trees, SVM, Random Forest |
+| Supervised | Linear & Logistic Regression, Decision Trees, SVM, Random Forest |
 | Unsupervised | K-Means Clustering, PCA |
-| Evaluation | Cross-validation, Confusion Matrices, Precision/Recall |
+| Evaluation | Cross-validation, Confusion Matrices, Precision / Recall / F1 |
+| Data | Feature Engineering, Normalization, Train-Test Split |
 
-**Stack**: Python · scikit-learn · NumPy · Pandas · Matplotlib
+**Stack**: `Python` · `scikit-learn` · `NumPy` · `Pandas` · `Matplotlib` · `Seaborn`
 
 ---
 
-### 📉 Programming_For_AI
+### 🧪 [Programming_For_AI](https://github.com/sammar-abbas-shah/Programming_For_AI)
 > Data preprocessing & feature engineering pipeline
 
 | Stage | Techniques |
 |-------|------------|
-| Scaling | Min-Max, Standard, Robust |
-| Encoding | One-Hot, ColumnTransformer |
-| Outliers | IQR, Z-Score detection |
-| Imbalance | SMOTE, NearMiss, Resampling |
+| Scaling | Min-Max, Standard, Robust Scaler |
+| Encoding | One-Hot Encoding, ColumnTransformer |
+| Outlier Detection | IQR Method, Z-Score |
+| Class Imbalance | SMOTE, NearMiss, Resampling |
 
-**Stack**: Python · Pandas · scikit-learn · imbalanced-learn
+**Stack**: `Python` · `Pandas` · `scikit-learn` · `imbalanced-learn`
 
 ---
 
-### 📱 toyshare
-> Flutter mobile app for community toy sharing (10K+ lines)
+### 📱 [ToyShare](https://github.com/sammar-abbas-shah/toyshare) — *Flutter Mobile App*
+> Community toy-sharing platform — 9,900+ lines of Dart, production-ready
 
 | Feature | Implementation |
 |---------|----------------|
-| Authentication | Firebase Auth |
-| Database | Firestore |
-| QR Exchange | QR generation & scanning |
-| Communication | Real-time chat + notifications |
-| Reviews | Ratings & reviews system |
+| 🔐 Authentication | Firebase Auth — login, signup, password reset |
+| 🧸 Toy Listings | Browse, search, filter by type / age group / condition |
+| 📆 Exchange System | Schedule by date+time or quick duration (5 min → hours) |
+| 📷 QR Receipts | Auto-generated QR per exchange with owner & return date |
+| 💬 Real-time Chat | In-app messaging with unread badges per exchange |
+| 🔔 Smart Notifications | Return reminders: 3 days, 1 day, same day, overdue alerts |
+| ⭐ Ratings & Reviews | Post-exchange feedback with public profiles |
+| 🌙 Dark Mode | Full dark mode across every screen |
 
-**Stack**: Dart · Flutter · Firebase · QR Flutter
-
----
-
-### 🏢 ElectricityBillingSystem
-> Windows Forms utility billing application
-
-| Module | Features |
-|--------|----------|
-| Admin | Customer CRUD, consumption records, bill generation |
-| Customer Portal | Account summary, bill viewing, online payments |
-| Backend | Microsoft SQL Server database |
-
-**Stack**: C# · .NET · SQL Server
+**Stack**: `Dart` · `Flutter` · `Firebase` · `Firestore` · `QR Flutter` · `Mobile Scanner`
 
 ---
 
@@ -162,12 +170,12 @@
 
 ---
 
-## 🔗 Connect
+## 🔗 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sammar-abbas-372359289)
-[![GitHub](https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sammar-abbas-shah)
+[![GitHub](https://img.shields.io/badge/GitHub-C792EA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sammar-abbas-shah)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sammarabbas0619@gmail.com)
 
 </div>
@@ -176,7 +184,9 @@
 
 <div align="center">
 
-**🎓 BIIT | Batch 2023–2027 | CGPA: 3.2 | Open to AI/ML/NLP Internships**
+![Visitor Badge](https://komarev.com/ghpvc/?username=sammar-abbas-shah&color=6C63FF&style=flat-square&label=Profile+Views)
+
+**🎓 BIIT | Batch 2023–2027 | CGPA: 3.2 | Open to AI / ML / NLP Internships**
 
 *"I don't just study AI — I build it, break it, and understand it."*
 
